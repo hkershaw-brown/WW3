@@ -1,3 +1,22 @@
+# CESM
+
+Using this as the base for the CESM2 nuopc cap WW3
+
+From model/bin directory: 
+./w3_setup /glade/u/home/hkershaw/WW3.shel/model -c Intel -s cici
+
+   Modified set up :
+      Printer (listings)       : printer
+      Auxiliary FORTRAN comp.  : ifort
+      Auxiliary C compiler     : icc
+      Scratch directory        : /glade/u/home/hkershaw/WW3.shel/model/tmp
+      Save sources             : yes
+      Save listings            : yes
+
+./w3_automake
+
+model/tmp_MPI contains the *.F90 files
+
 # The WAVEWATCH III Framework
 
 WAVEWATCH III &reg; is a community wave modeling framework that includes the 

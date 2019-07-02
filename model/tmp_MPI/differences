@@ -1,0 +1,45 @@
+Only in .: constants.F90
+Files /glade/u/home/hkershaw/nuopc/ncar-github/UFSCOMP/components/ww3/src/source/w3adatmd.F90 and ./w3adatmd.F90 differ
+Only in /glade/u/home/hkershaw/nuopc/ncar-github/UFSCOMP/components/ww3/src/source: w3constants.F90
+Files /glade/u/home/hkershaw/nuopc/ncar-github/UFSCOMP/components/ww3/src/source/w3cspcmd.F90 and ./w3cspcmd.F90 differ
+Files /glade/u/home/hkershaw/nuopc/ncar-github/UFSCOMP/components/ww3/src/source/w3dispmd.F90 and ./w3dispmd.F90 differ
+Files /glade/u/home/hkershaw/nuopc/ncar-github/UFSCOMP/components/ww3/src/source/w3fldsmd.F90 and ./w3fldsmd.F90 differ
+Files /glade/u/home/hkershaw/nuopc/ncar-github/UFSCOMP/components/ww3/src/source/w3gdatmd.F90 and ./w3gdatmd.F90 differ
+Files /glade/u/home/hkershaw/nuopc/ncar-github/UFSCOMP/components/ww3/src/source/w3idatmd.F90 and ./w3idatmd.F90 differ
+Files /glade/u/home/hkershaw/nuopc/ncar-github/UFSCOMP/components/ww3/src/source/w3initmd.F90 and ./w3initmd.F90 differ
+Files /glade/u/home/hkershaw/nuopc/ncar-github/UFSCOMP/components/ww3/src/source/w3iobcmd.F90 and ./w3iobcmd.F90 differ
+Files /glade/u/home/hkershaw/nuopc/ncar-github/UFSCOMP/components/ww3/src/source/w3iogomd.F90 and ./w3iogomd.F90 differ
+Files /glade/u/home/hkershaw/nuopc/ncar-github/UFSCOMP/components/ww3/src/source/w3iogrmd.F90 and ./w3iogrmd.F90 differ
+Files /glade/u/home/hkershaw/nuopc/ncar-github/UFSCOMP/components/ww3/src/source/w3iopomd.F90 and ./w3iopomd.F90 differ
+Files /glade/u/home/hkershaw/nuopc/ncar-github/UFSCOMP/components/ww3/src/source/w3iorsmd.F90 and ./w3iorsmd.F90 differ
+Files /glade/u/home/hkershaw/nuopc/ncar-github/UFSCOMP/components/ww3/src/source/w3iosfmd.F90 and ./w3iosfmd.F90 differ
+Files /glade/u/home/hkershaw/nuopc/ncar-github/UFSCOMP/components/ww3/src/source/w3iotrmd.F90 and ./w3iotrmd.F90 differ
+Only in /glade/u/home/hkershaw/nuopc/ncar-github/UFSCOMP/components/ww3/src/source: w3nmlmultimd.F90
+Only in .: w3nmlshelmd.F90
+Files /glade/u/home/hkershaw/nuopc/ncar-github/UFSCOMP/components/ww3/src/source/w3odatmd.F90 and ./w3odatmd.F90 differ
+Files /glade/u/home/hkershaw/nuopc/ncar-github/UFSCOMP/components/ww3/src/source/w3parall.F90 and ./w3parall.F90 differ
+Files /glade/u/home/hkershaw/nuopc/ncar-github/UFSCOMP/components/ww3/src/source/w3partmd.F90 and ./w3partmd.F90 differ
+Files /glade/u/home/hkershaw/nuopc/ncar-github/UFSCOMP/components/ww3/src/source/w3pro3md.F90 and ./w3pro3md.F90 differ
+Files /glade/u/home/hkershaw/nuopc/ncar-github/UFSCOMP/components/ww3/src/source/w3profsmd.F90 and ./w3profsmd.F90 differ
+Files /glade/u/home/hkershaw/nuopc/ncar-github/UFSCOMP/components/ww3/src/source/w3sdb1md.F90 and ./w3sdb1md.F90 differ
+Files /glade/u/home/hkershaw/nuopc/ncar-github/UFSCOMP/components/ww3/src/source/w3servmd.F90 and ./w3servmd.F90 differ
+Files /glade/u/home/hkershaw/nuopc/ncar-github/UFSCOMP/components/ww3/src/source/w3sic4md.F90 and ./w3sic4md.F90 differ
+Files /glade/u/home/hkershaw/nuopc/ncar-github/UFSCOMP/components/ww3/src/source/w3sln1md.F90 and ./w3sln1md.F90 differ
+Files /glade/u/home/hkershaw/nuopc/ncar-github/UFSCOMP/components/ww3/src/source/w3snl1md.F90 and ./w3snl1md.F90 differ
+Files /glade/u/home/hkershaw/nuopc/ncar-github/UFSCOMP/components/ww3/src/source/w3src4md.F90 and ./w3src4md.F90 differ
+Files /glade/u/home/hkershaw/nuopc/ncar-github/UFSCOMP/components/ww3/src/source/w3srcemd.F90 and ./w3srcemd.F90 differ
+Files /glade/u/home/hkershaw/nuopc/ncar-github/UFSCOMP/components/ww3/src/source/w3triamd.F90 and ./w3triamd.F90 differ
+Files /glade/u/home/hkershaw/nuopc/ncar-github/UFSCOMP/components/ww3/src/source/w3updtmd.F90 and ./w3updtmd.F90 differ
+Files /glade/u/home/hkershaw/nuopc/ncar-github/UFSCOMP/components/ww3/src/source/w3wavemd.F90 and ./w3wavemd.F90 differ
+Files /glade/u/home/hkershaw/nuopc/ncar-github/UFSCOMP/components/ww3/src/source/w3wdasmd.F90 and ./w3wdasmd.F90 differ
+Files /glade/u/home/hkershaw/nuopc/ncar-github/UFSCOMP/components/ww3/src/source/w3wdatmd.F90 and ./w3wdatmd.F90 differ
+Only in /glade/u/home/hkershaw/nuopc/ncar-github/UFSCOMP/components/ww3/src/source: wmfinlmd.F90
+Only in /glade/u/home/hkershaw/nuopc/ncar-github/UFSCOMP/components/ww3/src/source: wmgridmd.F90
+Only in /glade/u/home/hkershaw/nuopc/ncar-github/UFSCOMP/components/ww3/src/source: wminiomd.F90
+Only in /glade/u/home/hkershaw/nuopc/ncar-github/UFSCOMP/components/ww3/src/source: wminitmd.F90
+Only in /glade/u/home/hkershaw/nuopc/ncar-github/UFSCOMP/components/ww3/src/source: wmiopomd.F90
+Files /glade/u/home/hkershaw/nuopc/ncar-github/UFSCOMP/components/ww3/src/source/wmmdatmd.F90 and ./wmmdatmd.F90 differ
+Only in /glade/u/home/hkershaw/nuopc/ncar-github/UFSCOMP/components/ww3/src/source: wmunitmd.F90
+Only in /glade/u/home/hkershaw/nuopc/ncar-github/UFSCOMP/components/ww3/src/source: wmupdtmd.F90
+Only in /glade/u/home/hkershaw/nuopc/ncar-github/UFSCOMP/components/ww3/src/source: wmwavemd.F90
+Only in .: ww3_shel.F90
