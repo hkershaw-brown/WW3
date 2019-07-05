@@ -561,7 +561,7 @@
 ! 10. Source code :
 !
 !/ ------------------------------------------------------------------- /
-      USE CONSTANTS
+      USE W3CONSTANTS
       IMPLICIT NONE
 !/
 !/ ------------------------------------------------------------------- /
@@ -1373,7 +1373,7 @@
 !   Rotates x,y vectors anticlockwise by angle alpha in radians
 !
 !/ ------------------------------------------------------------------- /
-      USE CONSTANTS, ONLY : DERA, TPI, UNDEF
+      USE W3CONSTANTS, ONLY : DERA, TPI, UNDEF
       IMPLICIT NONE
 !
 !/ ------------------------------------------------------------------- /
@@ -1428,7 +1428,7 @@
 !   Rotates x,y vectors anticlockwise by angle alpha in radians
 !
 !/ ------------------------------------------------------------------- /
-      USE CONSTANTS, ONLY : DERA, TPI, UNDEF
+      USE W3CONSTANTS, ONLY : DERA, TPI, UNDEF
       IMPLICIT NONE
 !
 !/ ------------------------------------------------------------------- /

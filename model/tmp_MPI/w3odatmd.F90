@@ -296,7 +296,7 @@
 !  7. Source code :
 !
 !/ ------------------------------------------------------------------- /
-      USE CONSTANTS, ONLY : UNDEF
+      USE W3CONSTANTS, ONLY : UNDEF
       PUBLIC
 !/
 !/ Module private variable for checking error returns
